@@ -33,3 +33,4 @@ pipeline {
     }
 }
 
+// This Jenkinsfile defines a pipeline with four stages: Clone Code, Build, Test, and Package. It uses Maven as the build tool and checks out the code from the specified Git repository. Each stage executes the corresponding Maven commands to compile, test, and package the application.
